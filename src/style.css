@@ -1,0 +1,20 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+label {
+  font-weight: bold;
+}
+
+/* .table {
+  background-Color: #e6f7ff color rgb(8, 126, 164)
+} */
